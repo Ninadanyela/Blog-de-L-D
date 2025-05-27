@@ -237,4 +237,3 @@
     }
   </script>
 </body>
-</html>![1000044599](https://github.com/user-attachments/assets/68417146-72a2-465e-ad9c-90b6ab9d0c29)
